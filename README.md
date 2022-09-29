@@ -12,7 +12,7 @@ Dual Monitors (Two monitors. No more, no less)
 ## Current features:
 ```
 Rotate forward through active window sets on individual monitors
-Display current window set number as either `int` or `int*{character}`
+Display current window set number as either `int` (like 1, 2, 3) or `int*{character}` (like *, **, ***)
 ```
 
 ## Feature wishlist:
