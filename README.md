@@ -2,7 +2,7 @@
 Trying to write something to give independent monitor workspaces in KDE Plasma
 
 ### What really happens:
-Workspace is rotated forward, but the opposite monitor to the mouse gets all of its apps moved forward to the next workspace. A temp file is written with 
+Workspace is rotated forward, but the opposite monitor to the mouse gets all of its apps moved forward to the next workspace. A temp file is written with the current offset from active workspace.
 
 ## Prereqs:
 ```
