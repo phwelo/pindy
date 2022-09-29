@@ -43,7 +43,14 @@ options:
   -r, --right  Move window to right workspace
 ```
 
-Display a dot for each left side workspace
+### Examples
+
+Display a dot for each left side window set
 ```
 ./dots.py -l -d
+```
+
+Display an integer representation of the right side window set
+```
+./dots.py -r -n
 ```
