@@ -18,7 +18,7 @@ Display current window set number as either `int` (like 1, 2, 3) or `int*{charac
 ## Feature wishlist:
 ```
 Rotate backward through active window sets on individual monitors  
-Native notifier plugin
+Native notifier plugin instead of python script
 Single Monitor fallback (to maintain shortcuts when laptop unplugged)
 >2 Monitor Support
 Freeze the opposite screen so that we don't have to bear the animations
