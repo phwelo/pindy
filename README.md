@@ -6,6 +6,7 @@ Workspace is rotated forward, but the opposite monitor to the mouse gets all of 
 
 ## Prereqs:
 ```
+Plasma, probably 5+ I think
 ["wmctrl", "xdotool", "xrandr"]
 Dual Monitors (Two monitors. No more, no less)
 ```
